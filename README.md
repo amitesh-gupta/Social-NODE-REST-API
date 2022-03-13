@@ -1,5 +1,6 @@
 Node.js, Express social media Rest API using MongoDB.
-Features :- 
+
+**Features :-** 
 Register a user.
 Login.
 Update a user.
@@ -8,7 +9,7 @@ Get all user details.
 Dollow a user.
 Unfollow a user.
 
-Post features :-
+**Post features :-**
 Create a post.
 Update a post. 
 Delete a post.
@@ -16,6 +17,6 @@ Like & Dislike a post.
 Get a post details.
 Timeline.
 
-Installation : -
+**Installation : -**
 The project is built using Node.js. To install the dependencies run the command: npm install
 
